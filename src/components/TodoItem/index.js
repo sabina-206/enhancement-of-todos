@@ -16,7 +16,7 @@ class TodoItem extends Component {
     // const {todoDetails} = this.props
     // const {updatedTitle} = this.state
     this.setState({editing: false})
-    // Call a function to save updated title (not implemented in this code)
+    
   }
 
   handleChange = e => {
